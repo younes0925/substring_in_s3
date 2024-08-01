@@ -74,7 +74,7 @@ chmod +x find_substring_in_s3.sh
 ## Concepts:
 ### Infrastructure as Code (IaC):
 - What is it?:
-    - is the ability to provision and support your computing infrastructure using code instead of manual processes and settings.
+    - it is the ability to provision and support your computing infrastructure using code instead of manual processes and settings.
 
 - Why would I want it?
     - `Consistency`: Ensures consistent environments across development, testing, and production.
