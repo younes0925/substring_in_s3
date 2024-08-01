@@ -21,8 +21,8 @@ chmod +x find_substring_in_s3.sh
 ./find_substring_in_s3.sh <s3_bucket_name> <substring>
 ```
 
-- Replace <s3_bucket_name> with the name of your S3 bucket.
-- Replace <substring> with the substring you want to search for.
+- Replace `<s3_bucket_name>` with the name of your S3 bucket.
+- Replace `<substring>` with the substring you want to search for.
 
 ### Example Usage:
 
