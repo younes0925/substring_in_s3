@@ -12,13 +12,13 @@ This script searches for a substring within text files in an S3 bucket, includin
 
 ### Make the Script Executable:
 ```
-chmod +x find_substring_in_s3.sh
+chmod +x find_files_with_substring.sh
 ```
 
 ### Run the Script:
 
 ```
-./find_substring_in_s3.sh <s3_bucket_name> <substring>
+./find_files_with_substring.sh <s3_bucket_name> <substring>
 ```
 
 - Replace `<s3_bucket_name>` with the name of your S3 bucket.
@@ -27,7 +27,7 @@ chmod +x find_substring_in_s3.sh
 ### Example Usage:
 
 ```
-./find_substring_in_s3.sh my-test-bucket "search_term"
+./find_files_with_substring.sh my-test-bucket "search_term"
 ```
 
 ### Explanation of the Script:
