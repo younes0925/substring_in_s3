@@ -49,10 +49,10 @@ chmod +x find_substring_in_s3.sh
     - Calls the search_substring_in_s3 function with the provided bucket name and substring.
 
 ### Features
-- Pagination Handling: Ensures all files are retrieved even if they span multiple pages.
-- Text File Check: Only processes files with a .txt extension.
-- Temporary Directory: Uses a temporary directory to store downloaded files, which is cleaned up after the script runs.
-- User-Friendly Messages: Prints informative messages, including a message when no files are found.
+- `Pagination Handling`: Ensures all files are retrieved even if they span multiple pages.
+- `Text File Check`: Only processes files with a .txt extension.
+- `Temporary Directory`: Uses a temporary directory to store downloaded files, which is cleaned up after the script runs.
+- `User-Friendly Messages`: Prints informative messages, including a message when no files are found.
 
 
 ### Considerations for Production-Ready Code
