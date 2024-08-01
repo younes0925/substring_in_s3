@@ -83,8 +83,8 @@ chmod +x find_substring_in_s3.sh
 
 - Alternatives:
 
-    - Manual Configuration: Error-prone and inconsistent.
-    - Managed Services: Limits flexibility but reduces setup effort.
+    - `Manual Configuration`: Error-prone and inconsistent.
+    - `Managed Services`: Limits flexibility but reduces setup effort.
 
 ### Observability:
 - In the context of microservices:
